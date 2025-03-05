@@ -1,0 +1,37 @@
+.r {
+    background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(../img/2nd.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+
+.btn {
+    width: 110px; 
+    height: 45 px;
+}
+
+h1 {
+    font-size: 90px;
+}
+
+h5 {
+    font-size: 35px;
+}
+ul{
+    list-style-type: none;
+}
+.re{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+.res{
+    color: rgb(217, 255, 0);
+    text-align: center;
+}
+
+

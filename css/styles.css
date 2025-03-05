@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 70px; /* Adjust based on the navbar height */
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #87CEEB;
+}
+
+.hero-section {
+    background-image: url('../img/6th.jpg');
+    background-position: center;
+    height: 100vh;    
+    background-size: cover;
+    
+    background-position: center;
+    padding: 100px 0;
+    /* filter: brightness(0.49); */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+/* #h{
+    color:  rgb(1, 122, 178);
+    font-size: 60px;
+} */
+#h1 {
+    padding-top: 160px;
+    color: white;
+    font-size: 25px;
+  }
+#a1{
+    padding-top: 40px;
+    color:  #fffffffa; 
+    font-size: 50px;
+}
+.a2{
+    color:#bab9b9; 
+
+}
+#drp{
+    background-color: rgb(106, 106, 231);
+    color: rgb(235, 239, 239);
+}
+
+.about-section {
+    padding: 80px 0;
+    background-image: url('../img/7th.jpg');
+    background-position: center;
+    height: 100vh;    
+    background-size: cover;
+    
+    background-position: center;
+}
+
+.contact-section {
+    padding: 60px 0;
+    background-color: rgb(2, 2, 45);
+    color:#ada9a9 ;
+}
+
+#na{
+    background-color: gray;
+}
+
+  #bg-light {
+    height: 70px;
+    background-color: rgba(26, 29, 35, 0.8)!important;
+  }
+  a{
+    text-decoration: none;
+  }
+  
+  .i{
+    height: 24px !important;
+    width: 24px ;
+  }
